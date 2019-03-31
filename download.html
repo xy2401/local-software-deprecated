@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> local software download </title>
+    <script>
+
+        // #ls
+        // README.md  download.html  release  sha256sum.list
+        //sha256 与文件映射
+        const sha256sumMap = new Map();
+
+        //网页加载后触发
+        const load = async () => {
+            console.log("load event detected!");
+
+            const README_TEXT = await (await fetch('README.md')).text();
+            document.getElementById('README').innerText = README_TEXT;
+            //console.log(README_TEXT);
+
+            const sha256sum_TEXT = await (await fetch('sha256sum.list')).text();
+            sha256sum_TEXT.split("\n").forEach(file => {
+                //去掉可能多余都 换行符,并且使用空格(多个)分割
+                var fileInfo = file.replace('\r', '').split(/ +/);
+                //console.log(fileInfo);
+                if (fileInfo.length == 2) {
+                    sha256sumMap.set(fileInfo[0].trim(), fileInfo[1].trim());
+                }
+            });
+            console.log(sha256sumMap);
+        }
+        window.onload = load;
+
+        //没有文本选中的事件 使用 鼠标 松开都事件
+        const mouseup = () => {
+
+            const selection = document.getSelection().toString().trim();
+            //sha256值正则表达式匹配 64位字符
+            if (/[A-Fa-f0-9]{64}/.test(selection)) {
+
+                console.log(selection);
+                if (sha256sumMap.has(selection)) {
+                    window.open(sha256sumMap.get(selection));
+                } else {
+                    alert("This file does not exist");
+                }
+            }
+        }
+        document.onmouseup = mouseup;
+
+    </script>
+</head>
+
+<body>
+
+    <pre id='README'>
+
+
+    </pre>
+
+</body>
+
+</html>

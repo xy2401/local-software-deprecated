@@ -1,0 +1,15 @@
+9ab56f1cc43258a3223d51a28a536914ea95f2bde49c1cff8d5ba69c0b77cbb3  ./download.html
+e1995e717705ecf0aaac7a35d2d296bf5f222bd390d8c1252b860f0e605a0cfd  ./readme.md
+e0723a2319cc1cc16f91ef18faa5492720f3631edba676353f3d9420b2826a13  ./release/eclipse/eclipse-java-2019-03-R-win32-x86_64.zip
+8907ba795eb19ecdb6747e025a4e1b8ce4405e431ac6748862dc94a3695a023a  ./release/eclipse/eclipse-jee-2019-03-R-win32-x86_64.zip
+5a8065b0312efa7fe819fc878f390cc99e2c449293e659892b80d284ade9e0f8  ./release/eclipse/spring-tool-suite-4-4.2.0.RELEASE-e4.11.0-win32.win32.x86_64.zip
+4a0f77910f1373f526d6732896b870bc96f2a83e32d8390549331b602482f4ee  ./release/jdk/jdk-7u80-windows-x64.exe
+bde1648333abaf49c7175c9ee8ba9115a55fc160838ff5091f07d10c4bb50b3a  ./release/jdk/OpenJDK11U-jdk_x64_windows_hotspot_11.0.2_9.zip
+2637dab3bc81274e19991eebc27684276b482dd71d0f84fedf703d4fba3576e5  ./release/jdk/OpenJDK8U-jdk_x64_windows_hotspot_8u202b08.zip
+4ac27fb1f4d5b8650930f0e93e48afc6a7ee1a0629faa07d3b0ca7518af53e44  ./release/jetbrains/ideaIC-2019.1-jbr11.win.zip
+48af6124470d2f8b947c20f8c905a3ad37a5c13793145a8327f52e7796dd94cd  ./release/jetbrains/ideaIU-2019.1-jbr11.win.zip
+263f4a4a1b56eb90b2e15db0a72ec498e5399b8f9a7429c3d49cde0fa6ac00bc  ./release/jetbrains/WebStorm-2019.1.exe
+ebed6400076d75a4886d4d55cb53012f066c59625f6edd5f8b162aecb51c718c  ./release/office/LibreOffice_6.2.2_Win_x64.msi
+b26df6801f3c882c5d72aa4510527db4627aeaeee7b6e3bb7062bcee7252705d  ./release/utils/SourceHanSans.ttc
+037fbc3b7bba4c9f43e105f00f68733397c1b3099e52eb57308a6659482d3fd0  ./release/utils/SwitchHosts-win32-x64_v3.3.12.5349.zip
+8c5498dbbabba0f02c43ae67c9f86285fcabc4805d106bbd8224bd8d316fc6de  ./sha256sum.list
