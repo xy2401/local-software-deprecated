@@ -20,14 +20,14 @@
 # content
 
 - [JDK](#JDK)    Java Development Kit
-- [Eclipse](#Eclipse)    Enabling Open Innovation & Collaboration | The Eclipse Foundation
+- [Eclipse](#Eclipse)    Enabling Open Innovation & Collaboration  The Eclipse Foundation
 - [JetBrains](#JetBrains)    JetBrains: Developer Tools for Professionals and Teams
 - [office](#office) 办公类软件
 - [utils](#utils) 其他工具
  
 # JDK
 
-[存档| AdoptOpenJDK - 开源，预建OpenJDK二进制文件](https://adoptopenjdk.net/archive.html)
+[存档 AdoptOpenJDK - 开源，预建OpenJDK二进制文件](https://adoptopenjdk.net/archive.html)
 
 OpenJDK11U-jdk_x64_windows_hotspot_11.0.2_9.zip    
 bde1648333abaf49c7175c9ee8ba9115a55fc160838ff5091f07d10c4bb50b3a  
@@ -47,7 +47,7 @@ jdk-7u80-windows-x64.exe
 
 ## Eclipse
 
-[Eclipse Packages | The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 350 open source projects...](https://www.eclipse.org/downloads/packages/)
+[Eclipse Packages  The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 350 open source projects...](https://www.eclipse.org/downloads/packages/)
 
 
 eclipse-java-2019-03-R-win32-x86_64.zip  
@@ -85,7 +85,7 @@ spring-tool-suite-4-4.2.0.RELEASE-e4.11.0-win32.win32.x86_64.zip
 
 # office
 
-[Home | LibreOffice - Free Office Suite - Fun Project - Fantastic People](https://www.libreoffice.org/)
+[Home  LibreOffice - Free Office Suite - Fun Project - Fantastic People](https://www.libreoffice.org/)
 
 
 Filename: LibreOffice_6.2.2_Win_x64.msi  
@@ -95,7 +95,7 @@ SHA-256 Hash: ebed6400076d75a4886d4d55cb53012f066c59625f6edd5f8b162aecb51c718c
 # utils
 
 
-[GitHub - adobe-fonts/source-han-sans: Source Han Sans | 思源黑体 | 思源黑體 | 思源黑體 香港 | 源ノ角ゴシック | 본고딕](https://github.com/adobe-fonts/source-han-sans)
+[GitHub - adobe-fonts/source-han-sans: Source Han Sans  思源黑体  思源黑體  思源黑體 香港  源ノ角ゴシック  본고딕](https://github.com/adobe-fonts/source-han-sans)
 
 SourceHanSans.ttc    
 b26df6801f3c882c5d72aa4510527db4627aeaeee7b6e3bb7062bcee7252705d
