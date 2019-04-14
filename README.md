@@ -14,7 +14,7 @@
 
  
     ## 列出所有文件sha256
-    find  ./  -type f -exec sha256sum {} \; > sha256sum.list
+    find  ./*  -type f -exec sha256sum {} \; > sha256sum.list
 
 
 # content
