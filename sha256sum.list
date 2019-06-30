@@ -1,7 +1,9 @@
-9ab56f1cc43258a3223d51a28a536914ea95f2bde49c1cff8d5ba69c0b77cbb3  ./download.html
-e1995e717705ecf0aaac7a35d2d296bf5f222bd390d8c1252b860f0e605a0cfd  ./readme.md
+db5166cf0f6c34cc6f806817d2950d6321fdc99f8701d7e4a8512ca87c48de2c  ./README.md
+d374cf552e8c21f51651d04f956d668e1981f9660d92909e667984f68882073c  ./download.html
 e0723a2319cc1cc16f91ef18faa5492720f3631edba676353f3d9420b2826a13  ./release/eclipse/eclipse-java-2019-03-R-win32-x86_64.zip
 8907ba795eb19ecdb6747e025a4e1b8ce4405e431ac6748862dc94a3695a023a  ./release/eclipse/eclipse-jee-2019-03-R-win32-x86_64.zip
+4C535014AAFFB7C075687BAED9BC5B3F51771555C07AD836F3C740505A38801E  ./release/eclipse/eclipse-jee-2019-06-R-win32-x86_64.zip
+D54119E2D8BEAF28635C701B645C425F309A00887847570559AE7A6F1921DD75  ./release/eclipse/spring-tool-suite-4-4.3.0.RELEASE-e4.12.0-win32.win32.x86_64.zip
 5a8065b0312efa7fe819fc878f390cc99e2c449293e659892b80d284ade9e0f8  ./release/eclipse/spring-tool-suite-4-4.2.0.RELEASE-e4.11.0-win32.win32.x86_64.zip
 4a0f77910f1373f526d6732896b870bc96f2a83e32d8390549331b602482f4ee  ./release/jdk/jdk-7u80-windows-x64.exe
 bde1648333abaf49c7175c9ee8ba9115a55fc160838ff5091f07d10c4bb50b3a  ./release/jdk/OpenJDK11U-jdk_x64_windows_hotspot_11.0.2_9.zip
@@ -10,6 +12,7 @@ bde1648333abaf49c7175c9ee8ba9115a55fc160838ff5091f07d10c4bb50b3a  ./release/jdk/
 48af6124470d2f8b947c20f8c905a3ad37a5c13793145a8327f52e7796dd94cd  ./release/jetbrains/ideaIU-2019.1-jbr11.win.zip
 263f4a4a1b56eb90b2e15db0a72ec498e5399b8f9a7429c3d49cde0fa6ac00bc  ./release/jetbrains/WebStorm-2019.1.exe
 ebed6400076d75a4886d4d55cb53012f066c59625f6edd5f8b162aecb51c718c  ./release/office/LibreOffice_6.2.2_Win_x64.msi
+58780fddeb152efca0e191f8f4dc7111f41bb4857c101aaf7d8b6d8cdb1960c0  ./release/utils/MobaXterm_Portable_v11.1.zip
 b26df6801f3c882c5d72aa4510527db4627aeaeee7b6e3bb7062bcee7252705d  ./release/utils/SourceHanSans.ttc
 037fbc3b7bba4c9f43e105f00f68733397c1b3099e52eb57308a6659482d3fd0  ./release/utils/SwitchHosts-win32-x64_v3.3.12.5349.zip
-8c5498dbbabba0f02c43ae67c9f86285fcabc4805d106bbd8224bd8d316fc6de  ./sha256sum.list
+1e8ad357f2e8a11845dd5ede75e9c92e42322afcc928688075c8657024b8d5c9  ./sha256sum.list
